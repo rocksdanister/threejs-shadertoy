@@ -15,8 +15,8 @@ An experimental project trying to run [shadertoy](https://www.shadertoy.com/) sh
 - [ ] uniform float     iSampleRate;           // sound sample rate (i.e., 44100)
 
 ### More features
- - Scaling: Adjust fragment shader resolution. Can be reduced to improve performance for shaders with less finer details. 
- - Post processing: Built in brightness, saturation and other effects.
- - FPS control: Adjust frame-rate. Can be reduced to improve performance for shaders with slow/subtle movement.
- - Playback control: Start/Pause playback.
-- dat.GUI util: Generate dat.gui for shader uniforms.
+- [ ] Scaling: Adjust fragment shader resolution. Can be reduced to improve performance for shaders with less finer details. 
+- [ ] Post processing: Built in brightness, saturation and other effects.
+- [ ] FPS control: Adjust frame-rate. Can be reduced to improve performance for shaders with slow/subtle movement.
+- [ ] Playback control: Start/Pause playback.
+- [ ] dat.GUI util: Generate dat.gui for shader uniforms.
